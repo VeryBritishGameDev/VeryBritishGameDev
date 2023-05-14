@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeryBritishGameDev
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on hoi4 mods
 - 📫 discord: british?#6986
 
